@@ -7,7 +7,7 @@ Pour utiliser l'API OTP, vous devez d'abord installer les dépendances nécessai
 1. Clonez le dépôt de l'API OTP :
 
 bash
-git clone https://github.com/votre_utilisateur/api-otp.git
+git clone https://github.com/bawmp/AUTHENTIFICATION_OTP/tree/master
 2. Accédez au répertoire du projet :
 
 bash
@@ -31,7 +31,7 @@ Assurez-vous de remplacer `YOUR_NEXMO_API_KEY`, `YOUR_NEXMO_API_SECRET`, `YOUR_A
 
 bash
 npm start
-L'API OTP sera accessible à l'adresse `http://localhost:3000`.
+L'API OTP sera accessible à l'adresse `http://localhost:5000`.
 
 ## Routes
 
