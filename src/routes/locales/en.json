@@ -1,0 +1,14 @@
+{
+	"ALREADY_REGISTERED": "User already registered",
+	"ACCOUNT_BLOCKED": "Account blocked",
+	"OTP_REQUEST_LIMIT": "OTP request limit exceeded",
+	"SUCCESS": "Success",
+	"USER_NOT_FOUND": "User not found",
+	"OTP_NOT_VERIFIED": "OTP not verified",
+	"OTP_ALREADY_VERIFIED": "OTP already verified",
+	"OTP_NOT_EXPIRED": "OTP not expired",
+	"Quelque chose s'est mal passé": "Something went wrong",
+	"OTP_EXPIRED":"OTP expired",
+    "INVALID_EMAIL_FORMAT": "Invalid email format",
+	"INVALID_PHONE_FORMAT": "Invalid phone format"
+}
